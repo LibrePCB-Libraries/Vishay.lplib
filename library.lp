@@ -1,0 +1,10 @@
+(librepcb_library c09d3949-d9b4-475a-a563-e3c56807a02b
+ (name "Vishay")
+ (description "Semiconductors from Vishay (unofficial).")
+ (keywords "")
+ (author "LibrePCB")
+ (version "0.1")
+ (created 2023-01-03T08:07:04Z)
+ (deprecated false)
+ (url "https://github.com/LibrePCB-Libraries/Vishay.lplib")
+)
