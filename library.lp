@@ -7,5 +7,6 @@
  (created 2023-01-03T08:07:04Z)
  (deprecated false)
  (url "https://github.com/LibrePCB-Libraries/Vishay.lplib")
+ (dependency a9ddf0c6-9b1c-4730-b300-01b4f192ad40)
  (manufacturer "Vishay")
 )
