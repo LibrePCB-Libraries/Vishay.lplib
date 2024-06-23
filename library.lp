@@ -3,7 +3,7 @@
  (description "Semiconductors from Vishay (unofficial).")
  (keywords "")
  (author "LibrePCB")
- (version "0.1")
+ (version "0.1.1")
  (created 2023-01-03T08:07:04Z)
  (deprecated false)
  (url "https://github.com/LibrePCB-Libraries/Vishay.lplib")
